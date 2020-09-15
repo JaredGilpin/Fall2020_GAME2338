@@ -38,10 +38,10 @@ Firstly, there were some issues when it came to game stability. On several occas
 
 Secondly, and more prominently, I felt that the three core gameplay styles- stealth, tactics, and action combat- did not work particularly well with each other. There were stealth elements, but not enough to work well as a stealth game. There were tactical elements, but not enough to work as a tactical game. There were action elements, but the lightning-fast reflexes of the AI and the instant death from even the slightest error prevented it from being a truly fun hack-and-slash game. I felt the three didn't work cohesively with each other, which often lead to me getting frustrated that I couldn't focus on one style effectively. 
 
-Another minor gripe would be the collectible magazines, which included very suggestive imagery. In another game that had a reputation for being obscene such as Borderlands, this would have made sense in the context. Here, however, it felt unnecessary and borderline gratuitous. The story itself was very flimsy as well, to the point of almost seeming like an afterthought.
+Another minor gripe would be the collectible magazines, which included very suggestive imagery. In another game that had a reputation for being intentionally obscene such as Borderlands, this would have made sense in the context. Here, however, it felt unnecessary and borderline gratuitous. The story itself was very flimsy as well, to the point of almost seeming like an afterthought.
 
 Overall, I enjoyed my experience playing God's Trigger, but I don't expect I'll return for subsequent playthroughs.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+Official website: https://godstriggergame.com/?lang=en_US
