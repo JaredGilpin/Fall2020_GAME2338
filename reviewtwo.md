@@ -5,9 +5,13 @@
 ### Game Title
 
 God's Trigger
+
 One More Level (developer), Techland Publishing (publisher)
+
 PlayStation, Xbox, Windows
+
 2018
+
 God's Trigger can be found on Steam here: https://store.steampowered.com/app/488730/Gods_Trigger/
 
 ### Rating
