@@ -4,8 +4,11 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Bastion
+Supergiant Games
+Windows, Linux, Xbox 360, iOS
+2011
+Bastion can be found on Steam here: https://store.steampowered.com/app/107100/Bastion/
 
 ### Rating
 
