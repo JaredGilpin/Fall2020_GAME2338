@@ -5,9 +5,13 @@
 ### Game Title
 
 Bastion
+
 Supergiant Games
-Windows, Linux, Xbox 360, iOS
+
+Windows, Linux, iOS, Xbox, PlayStation, Nintendo Switch
+
 2011
+
 Bastion can be found on Steam here: https://store.steampowered.com/app/107100/Bastion/
 
 ### Rating
