@@ -16,17 +16,22 @@ These three factors are by no means an exhaustive list of the things that make W
 
 The second game we discussed was The Witcher 3: Wild Hunt. This open-world RPG game by Polish developer CD Projekt Red was a massive success after its release in 2015. The Witcher 3 has a staggering amount of great things to talk about, but there were four measures of quality that we thought made The Witcher 3 great: attention to detail, music & sound, a motivating story, and interesting characters.
 
-The attention to detail was, in my opinion, the most noticeably great thing about The Witcher 3. "Detail" is an ambiguous term so it's hard to nail down exactly what it means in terms of quality, but I consider it to be the collection of all of the tiny details that have no other function than to make the world more interesting. For example, a location called the Seven Cats Inn features exactly that: seven cats. The player can find these cats roaming the area, and as expected they hiss at the player but not at the local residents. It would have been very easy to simply add a few cats in the area and call it a day, but this small detail makes it appear as though the owner of the inn observed seven cats in the area and, with no other good ideas, decided to name the establishment after them. This kind of cause-and-effect detail is present throughout the entirety of the game and it would be a losing battle to attempt to catalogue them all. From the buckles on a horse's harness to the waving of a woman's hair in the breeze, The Witcher 3 is, if nothing else, detailed. 
+The attention to detail was, in my opinion, the most noticeably great thing about The Witcher 3. "Detail" is an ambiguous term so it's hard to nail down exactly what it means in terms of quality, but I consider it to be the collection of all of the tiny details that have no other function than to make the world more interesting. For example, a location called the Seven Cats Inn features exactly that: seven cats. The player can find these cats roaming the area, and as expected they hiss at the player but not at the local residents. It would have been very easy to simply add a few cats in the area and call it a day, but this small detail makes it appear as though the owner of the inn observed seven cats in the area and, with no other good ideas, decided to name the establishment after them. This kind of cause-and-effect detail is present throughout the entirety of the game and it would be a losing battle to attempt to catalogue them all. From the buckles on a horse's harness to the waving of a penant in the breeze, The Witcher 3 is, if nothing else, detailed. 
 
-Music and sound is a more nebulous factor that some games manage to get right where others fall short. In The Witcher 3, however, sound and music was a significant factor in my enjoyment of the game. The music was all
+Music and sound is a more nebulous factor that some games manage to get right where others fall short. In my experience in The Witcher 3, sound and music was a significant factor in my enjoyment of the game. The soundtrack of The Witcher 3 was nothing short of amazing; dynamically-triggered music for exploration, combat and city life meshed exceptionally well with traditional instruments and a "fantasy folk" style. The music was never out of place, overpowering or insignificant. The music worked well with the soundscape as a whole, which included an incredible mix of ambient sound effects such as rustling leaves and flowing water as well as triggered sounds like footsteps and combat sounds. Nothing was ever overpowering and when something was important to current events it was always perfectly audible and at an appropriate volume.
 
--Attention to detail
--Believability/plausibility of characters
--Difficulty curve - options for all skill levels
--Music & sound
--Motivating story
+The story of The Witcher 3 was especially notable. As a narrative-driven RPG game, the story is perhaps the most significant motivating factor that keeps a player invested in the world as a whole. While the story is quite long and at some times feels meandering, there is never any content that I felt was out of place. One event leads logically to another, and questions are not left unanswered. The main storyline of the game takes place within a defined linear path, but there are many side quests and optional tasks that serve to expand and deepend that core story. These combine well to create an interesting and motivating storyline unlike any other.
+
+Lastly, the interesting and diverse cast of characters in The Witcher 3 are of wonderful quality. This is not limited to just the most important story characters either- even  the smaller NPCs that the player will only interact with briefly in one part of the game are fleshed-out and feel like living, breathing members of a complex world. Main characters have complex backstories, interests and opinions that are introduced in a natural way that never feels forced. Every character, major or  minor, has a story.  Explicitely stated or not, every NPC occupies a unique niche in their environment. 
+
+While I could talk for days about why I think The Witcher 3 is a quality game, these four categories cover the most significant of them.
 
 ## Game 3: Halo 3
+
+The final game we discussed regarding factors of quality was Halo 3. This is a game that we both played quite a bit in the past and we both have fond memories of our time playing it. The three primary measures of quality that we discussed were the story, the fun and exciting gameplay, and the multiplayer gamemode. 
+
+Halo 3 is a game that places a heavy emphasis on its story. Continu
+
 -Motivating story
 -Interesting characters
 -Fun/exciting gameplay
