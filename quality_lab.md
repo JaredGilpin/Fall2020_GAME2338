@@ -10,7 +10,7 @@ Secondly, the story and lore that the player can experience while playing World 
 
 Lastly, World of Warcraft is easy to play. Before even playing, installation and sign-up is a quick and easy process, all handled through Blizzard's desktop app or their official website. Once the game is being played, it behaves as you would expect from an MMO: move your character with the WASD or arrow keys, and click on things with the mouse. The game also features a suite of in-game tutorials aimed at players that need an extra boost to get started. The ease of use does not stop at tutorials and controls, however. World of Warcraft allows the player to change and fine-tune dozens of settings to suit individual preferences- everything from controls to graphical quality.
 
-These three factors are by no means an exhaustive list of the things that make World of Warcraft a quality game, they represent the three most significant factors that contribute to the games lasting success.
+These three factors are by no means an exhaustive list of the things that make World of Warcraft a quality game, they represent the three most significant factors that I thought most contribute to the games lasting success.
 
 ## Game 2: The Witcher 3
 
@@ -24,19 +24,13 @@ The story of The Witcher 3 was especially notable. As a narrative-driven RPG gam
 
 Lastly, the interesting and diverse cast of characters in The Witcher 3 are of wonderful quality. This is not limited to just the most important story characters either- even  the smaller NPCs that the player will only interact with briefly in one part of the game are fleshed-out and feel like living, breathing members of a complex world. Main characters have complex backstories, interests and opinions that are introduced in a natural way that never feels forced. Every character, major or  minor, has a story.  Explicitely stated or not, every NPC occupies a unique niche in their environment. 
 
-While I could talk for days about why I think The Witcher 3 is a quality game, these four categories cover the most significant of them.
-
 ## Game 3: Halo 3
 
-The final game we discussed regarding factors of quality was Halo 3. This is a game that we both played quite a bit in the past and we both have fond memories of our time playing it. The three primary measures of quality that we discussed were the story, the fun and exciting gameplay, and the multiplayer gamemode. 
+The final game we discussed regarding factors of quality was Halo 3. This is a game that we both played quite a bit in the past and we both have fond memories of our time playing it. The three primary measures of quality that we discussed were story, exciting gameplay, and the multiplayer gamemode. 
 
-Halo 3 is a game that places a heavy emphasis on its story. Continu
+Halo 3 is a game that places a heavy emphasis on its story. Halo 3 concludes the story arc that begun in the first installment, Halo, and was continued by the second, Halo 2. This trilogy of games does an excellent job of introducing and concluding story elements in a logical and interesting way. Halo's story is very linear, as the player has little to not input in how things should proceed. The first two games accomplished this well, and I thought Halo 3 continued this trend. The storyline itself was concluded succinctly, and finishing the game on the hardest difficulty, Legendary, provides an additional small cutscene that serves as a cliffhanger before the next story arc, begun in Halo 4. 
 
--Motivating story
--Interesting characters
--Fun/exciting gameplay
--Multiplayer
--Adrenaline
--Music
--Levels
--Aesthetically pleasing
+Equally as important as the story was Halo 3's gameplay. The elements that Halo and Halo 2 introduced, such as personal shields, weapon types and vehicles, were expanded upon and improved in Halo 3. A host of new items such as equipment and heavy weapons were added with Halo 3 that provided fun and new ways to accomplish goals. In some cases, adding tons of additional content on top of existing features can feel forced and unnatural, but I felt that Halo 3 managed to retain the original gameplay that I expected while still introducing fun new things. A heavier emphasis was also placed on vehicular combat, offering new and exciting missions that weren't possible in the previous games. New features plus expertly crafted combat encounters created a fun, exciting and adrenaline-inducing gameplay loop that had me constantly itching for the next fight. 
+
+Finally, the advances made in the multiplayer system between Halo 2 and Halo 3 were exceptional. Halo 2's multiplayer gamemode was not as refined and exciting as the one present in Halo 3. I thought that the addition of new weapons and equipment made the multiplayer much more varied and interesting, as dozens of new tools were available to use against my opponents. Multiplayer maps that were often much larger to accommodate the suite of new vehicles were also more varied in their aesthetics and provided unique gameplay on a map-by-map basis. Some were very confined, lending to close-range weapons and equipment while others were very open and sprawling, making long-rage weapons and heavy vehicles more viable. 
+
