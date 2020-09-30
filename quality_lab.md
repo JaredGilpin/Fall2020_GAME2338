@@ -1,14 +1,25 @@
 # Quality Lab
 
 ## Game 1: World of Warcraft
--Keep the player playing - replayability
--Motivating story
--Smooth controls/mechanics
--Content progression - lots to do
--Diversity of content
--Casual to serious
+
+The first game we discussed in terms of quality was Blizzard's World of Warcraft, which is a game that both of us have played extensively. We had similar opinions on the game and it was easy to come up with a list of things that we enjoyed about it. While some of these things were minor things that are common across many games, like the intuitive user interface, there were three major measures of World of Warcraft's quality that we discussed: Gameplay & replayability, story & world building, and ease of use. 
+
+Firstly, and perhaps most importantly, World of Warcraft has excellent gameplay. I believe this feature is the core motivating factor behind the game's massive popularity. It contains fun & motivating gameplay for players of all kinds, from casual adventurers to hardcore E-sports competitors. On the casual end, World of Warcraft's gameplay supports players who only wish to explore some dungeons, slay some monsters and catch some fish. The combat itself is not dependent on quick reaction speed, nor is it difficult to the point of excluding those new to MMOs or those without a significant amount of gaming skill. On the more serious side, World of Warcraft's gameplay scales well with player skill and time invested. Dungeons and raids can be scaled up to provide an even greater challenge to these players, allowing them to reap even greater rewards for their efforts. While difficulty scaling is certainly an important factor, the replayability of that content is equally as important. World of Warcraft features a staggering amount of content for the player to experience, from fishing tournaments to pet collection to dragon encounters. This content can be experienced from the perspective of any of 12 character classes and over 20 playable races that give a unique experience each time. This, combined with repeatable daily content, seasonal holidays and one-time events, provides the playerbase with a nearly-unending stream of tasks to complete.
+
+Secondly, the story and lore that the player can experience while playing World of Warcraft is of exceptional quality. From the inception of the Warcraft universe in 1994 with Warcraft: Orcs and Humans, the story of the world of Warcraft has expanded and deepened. Where World of Warcraft differs from other more linear games is that it does not feature a dominent central storyline. The player is dropped into the world and must figure everything out for themselves- there is no overarching main narrative that guides the player to a single conclusion. Rather, there is a dominant theme, dependent on the expansion, that guides the player to a more general understanding of the world. This, combined with smaller side quests, environmental details and NPC dialogue, forms a more loosely defined collection of lore. The main theme is augmented by countless smaller bits of content that fill gaps, develop certain characters or locations, and define new pieces of the world. In our experience, this type of storytelling provides a greater sense of immersion in the world itself- being spoonfed a storyline feels more like reading a book than inhabiting a living, breathing world.
+
+Lastly, World of Warcraft is easy to play. Before even playing, installation and sign-up is a quick and easy process, all handled through Blizzard's desktop app or their official website. Once the game is being played, it behaves as you would expect from an MMO: move your character with the WASD or arrow keys, and click on things with the mouse. The game also features a suite of in-game tutorials aimed at players that need an extra boost to get started. The ease of use does not stop at tutorials and controls, however. World of Warcraft allows the player to change and fine-tune dozens of settings to suit individual preferences- everything from controls to graphical quality.
+
+These three factors are by no means an exhaustive list of the things that make World of Warcraft a quality game, they represent the three most significant factors that contribute to the games lasting success.
 
 ## Game 2: The Witcher 3
+
+The second game we discussed was The Witcher 3: Wild Hunt. This open-world RPG game by Polish developer CD Projekt Red was a massive success after its release in 2015. The Witcher 3 has a staggering amount of great things to talk about, but there were four measures of quality that we thought made The Witcher 3 great: attention to detail, music & sound, a motivating story, and interesting characters.
+
+The attention to detail was, in my opinion, the most noticeably great thing about The Witcher 3. "Detail" is an ambiguous term so it's hard to nail down exactly what it means in terms of quality, but I consider it to be the collection of all of the tiny details that have no other function than to make the world more interesting. For example, a location called the Seven Cats Inn features exactly that: seven cats. The player can find these cats roaming the area, and as expected they hiss at the player but not at the local residents. It would have been very easy to simply add a few cats in the area and call it a day, but this small detail makes it appear as though the owner of the inn observed seven cats in the area and, with no other good ideas, decided to name the establishment after them. This kind of cause-and-effect detail is present throughout the entirety of the game and it would be a losing battle to attempt to catalogue them all. From the buckles on a horse's harness to the waving of a woman's hair in the breeze, The Witcher 3 is, if nothing else, detailed. 
+
+Music and sound is a more nebulous factor that some games manage to get right where others fall short. In The Witcher 3, however, sound and music was a significant factor in my enjoyment of the game. The music was all
+
 -Attention to detail
 -Believability/plausibility of characters
 -Difficulty curve - options for all skill levels
