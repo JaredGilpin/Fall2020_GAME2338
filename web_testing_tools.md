@@ -62,25 +62,25 @@ Water is written in Ruby and functions as an open-source Ruby library. It works 
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Katalon Studio
 
 _What company developed this test tool?_ 
 
-Company Name
+Katalon LLC
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes - Katalon Studio can record and store UI elements and actions for easy reuse.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes - Katalon Studio's interface allows easy linking of various test objects.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Katalon Studio works with HTML, HTML5, JavaScript, Ajax and Angular.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Katalon Studio allows users to install additional plugins to further expand testing functionality and to optimize automation.
+* Katalon Studio works well with other testing and bug reporting software, including Jira and Git.
+* Katalon offers both a "codeless" visual experience for automation beginners, while also offering support for script-based automation for those more adept with the software.
